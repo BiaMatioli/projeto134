@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+}
+
+.tagH1{
+    font-size: 20px;
+    color: aliceblue;
+}
+
+#tagStatus{
+    font-size: 15px;
+    color: aliceblue;
+}
+
+#copyright{
+    background-color: aliceblue;
+    color: indigo;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+}
+
+canvas{
+    box-shadow: 1px 5px 10px linen;
+    margin-top: 150px;
+}
